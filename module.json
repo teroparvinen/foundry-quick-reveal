@@ -1,0 +1,23 @@
+{
+	"name": "quick-reveal",
+	"title": "Quick Reveal",
+	"description": "Helps the GM reveal die rolls.",
+	"authors": [
+		{
+			"name": "Tero Parvinen"
+		}
+	],
+	"version": "1.0",
+	"minimumCoreVersion": "9",
+	"compatibleCoreVersion": "9",
+	"esmodules": [
+		"./module/quick-reveal.js"
+	],
+	"languages": [
+		{
+			"lang": "en",
+			"name": "English",
+			"path": "./lang/en.json"
+		}
+	]
+}
