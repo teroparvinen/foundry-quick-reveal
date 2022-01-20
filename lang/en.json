@@ -1,7 +1,7 @@
 {
-	"QUICK-REVEAL": {
-		"hotkey-binding": "Quick Reveal Last Roll",
-		"only-reveal-damage": "Only Reveal Damage Rolls",
-		"auto-reveal-damage": "Automatically Reveal Damage Rolls"
-	}
+    "QUICK-REVEAL": {
+        "hotkey-binding": "Quick Reveal Last Roll",
+        "only-reveal-damage": "Only Reveal Damage Rolls",
+        "auto-reveal-damage": "Automatically Reveal Damage Rolls"
+    }
 }
