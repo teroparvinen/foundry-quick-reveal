@@ -66,3 +66,9 @@ Hooks.on('renderChatMessage', (msg, html, data) => {
         msg.update({whisper: []});
     }
 });
+
+Hooks.on('updateChatMessage', (msg, data) => {
+    if (data.whisper && data.whisper.length == 0) {
+        ui.chat.scrollBottom();
+    }
+});
